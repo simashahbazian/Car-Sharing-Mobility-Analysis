@@ -2,7 +2,6 @@
 
  📍 Politecnico di Torino | 🎓 ICT for Smart Mobility | 👥 Group 13
 
-
  🎯 Project Overview
 
 This project analyzes **car-sharing and urban mobility data** in Torino and other European cities as part of the ICT for Smart Mobility course at Politecnico di Torino.
