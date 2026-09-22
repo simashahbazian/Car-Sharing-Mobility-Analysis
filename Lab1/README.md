@@ -20,7 +20,6 @@ The work examines:
 - 🔍 Comparison of filtered and unfiltered utilization
 
 
-
  🔎 Analysis
 
  📊 1. Usage Characterization
